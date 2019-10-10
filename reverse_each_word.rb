@@ -15,3 +15,4 @@ def reverse_each_word(sentence2)
   end 
   new_array.join(" ")
 end 
+
